@@ -1,1 +1,14 @@
-this is demo
+//initiallize repo
+git init
+
+// check repo status
+git status
+
+// take pull
+git pull origin <branch name>
+
+// push code
+git push origin <branch name>
+
+// make new branch
+git checkout -b <branch name>
